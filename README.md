@@ -1,16 +1,19 @@
-### Hi there 👋
+### s1m0n-crypto 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**s1m0n-crypto/s1m0n-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Safety Technical Engineer :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, JavaScript,Java,C++
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organisation :** 
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=s1m0n-crypto&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Isha Gupta](https://github.com/s1m0n-crypto)
+
